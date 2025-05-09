@@ -1,6 +1,6 @@
-Code for ICASSP 2025 submission
+Code for our ICASSP 2025 paper
 
-**Semi-Supervised Cognitive State Classification from Speech with Multi-View Pseudo-Labeling**
+[**Semi-Supervised Cognitive State Classification from Speech with Multi-View Pseudo-Labeling**](https://arxiv.org/abs/2409.16937)
 
 
 You may kindly cite
