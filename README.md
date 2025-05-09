@@ -36,6 +36,8 @@ You may kindly cite
 
 The Frechet audio distance is implemented using [Microsoft FAD Toolkit](https://github.com/microsoft/fadtk) and followed our ICME 2025 work:
 
+[**Addressing Emotion Bias in Music Emotion Recognition and Generation with Frechet Audio Distance**](https://arxiv.org/abs/2409.15545)
+
 ```
 @inproceedings{li2025addressing,
   title={Addressing emotion bias in music emotion recognition and generation via Frechet audio distance},
