@@ -124,9 +124,9 @@ def reinitialize_classifier(model):
 
 
 # Hyperparameters
-I_max = 40  # Max iterations
-num_epochs = 30  # Number of epochs per iteration
-no_improvement_limit = 2  # Early stopping criteria
+I_max = 40
+num_epochs = 30
+no_improvement_limit = 2
 best_performance = -np.inf
 no_improvement_count = 0
 
