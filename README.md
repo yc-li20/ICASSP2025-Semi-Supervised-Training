@@ -16,6 +16,7 @@ You may kindly cite
 }
 ```
 
+This work is supported by several of our other studies, which you are welcome to read as well.
 
 The bimodal fusion code is used from our SLT 2024 work:
 
@@ -32,7 +33,7 @@ The bimodal fusion code is used from our SLT 2024 work:
 }
 ```
 
-The Frechet audio distance is implemented using [Microsoft FAD Toolkit](https://github.com/microsoft/fadtk) and followed our ICME 2025 work:
+The Frechet audio distance is implemented using [Microsoft FAD Toolkit](https://github.com/microsoft/fadtk) and follows our ICME 2025 work:
 
 [**Addressing Emotion Bias in Music Emotion Recognition and Generation with Frechet Audio Distance**](https://arxiv.org/abs/2409.15545)
 
@@ -46,7 +47,7 @@ The Frechet audio distance is implemented using [Microsoft FAD Toolkit](https://
 }
 ```
 
-The R3 prompt and parameter-efficient fine-tuning code is used from our another icassp 2025 work:
+The R3 prompt and parameter-efficient fine-tuning code is used from our another ICASSP 2025 work:
 [**Revise, Reason, and Recognize: LLM-Based Emotion Recognition via Emotion-Specific Prompts and ASR Error Correction**](https://github.com/yc-li20/Emotion-Prompt)
 
 ```
